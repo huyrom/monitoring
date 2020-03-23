@@ -22,3 +22,5 @@
 ### Monitoring the inbound bandwidth of network interface
 ### rate(node_network_receive_bytes {device="ens192"}[1m])*8/1024/1024
 
+### Some reference links
+### https://medium.com/kartbites/process-level-monitoring-and-alerting-in-prometheus-915ed7508058
